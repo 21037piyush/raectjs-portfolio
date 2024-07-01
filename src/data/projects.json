@@ -1,0 +1,42 @@
+[
+  {
+    "title": "TODO list- Your daily action reminder",
+    "imageSrc": "projects/todo.png",
+    "description": "I've developed an online web platform using React.js where you can create, edit, upload, and delete your to-do lists securely and privately, ensuring a disturbance-free experience.",
+    "skills": [
+      "React",
+      "HTML","CSS",
+      "Bootstrap",
+      "LocalStorage",
+      "UI"
+    ],
+    "demo": "https://todossslist.netlify.app/",
+    "source": "https://github.com/21037piyush"
+  },
+  {
+    "title": "APOD PROJECT – API based react WebApp",
+    "imageSrc": "projects/apod1.png",
+    "description": "Developed a flexible web app using NASA's API to fetch and display Astronomy Picture of the Day (APOD) data, dynamically rendered through props and state in a React.js framework.",
+    "skills": [
+      "React",
+      "HTML","CSS",
+      "Node",
+      "API's","Bootstrap"
+    ],
+    "demo":  "https://apod-astropic.netlify.app/",
+    "source": "https://github.com/21037piyush/nasa-react-app "
+  },
+  {
+    "title": "WoolWeb – OR Scanner & Generator",
+    "imageSrc": "projects/woolweb.jpg",
+    "description": "This project aims to learn the programming languages by building an app that can generate and scan QR codes for real-time information and shows the usage of modern technologies.",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Node JS","API","Figma"
+    ],
+    "demo": "https://youtu.be/-HeRKJP06Y4",
+    "source": "https://www.figma.com/file/NQtjA1SHO8Yl76wa6zIHl3/sih-woolwebwebsite?type=design&node-id=1%3A3&mode=design&t=5RnF07r3sRmi7mkj-1"
+  }
+ 
+]
