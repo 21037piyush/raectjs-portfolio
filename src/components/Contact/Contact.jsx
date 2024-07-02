@@ -1,11 +1,29 @@
-
-
 import React from "react";
-
 import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
 
 export const Contact = () => {
+  const contactDetails = [
+    {
+      icon: "contact/emailIcon.png",
+      alt: "Email icon",
+      href: "mailto:piyushdas1803@gmail.com",
+      text: "piyushdas1803@gmail.com",
+    },
+    {
+      icon: "contact/linkedinIcon.png",
+      alt: "LinkedIn icon",
+      href: "https://www.linkedin.com/in/piyush-das-b99595248/",
+      text: "LinkedIn - PIYUSH",
+    },
+    {
+      icon: "contact/githubIcon.png",
+      alt: "Github icon",
+      href: "https://github.com/21037piyush",
+      text: "Github - PIYUSH",
+    },
+  ];
+
   return (
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
@@ -13,21 +31,12 @@ export const Contact = () => {
         <p>Feel free to reach out!</p>
       </div>
       <ul className={styles.links}>
-        <li className={styles.link}>
-          <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:piyushdas1803@gmail.com">piyushdas1803@gmail.com</a>
-        </li>
-        <li className={styles.link}>
-          <img
-            src={getImageUrl("contact/linkedinIcon.png")}
-            alt="LinkedIn icon"
-          />
-          <a href="https://www.linkedin.com/in/piyush-das-b99595248/">LinkedIn - PIYUSH</a>
-        </li>
-        <li className={styles.link}>
-          <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://github.com/21037piyush">Github - PIYUSH</a>
-        </li>
+        {contactDetails.map((detail, index) => (
+          <li key={index} className={styles.link}>
+            <img src={getImageUrl(detail.icon)} alt={detail.alt} />
+            <a href={detail.href}>{detail.text}</a>
+          </li>
+        ))}
       </ul>
     </footer>
   );
