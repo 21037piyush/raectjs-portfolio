@@ -37,6 +37,29 @@
     ],
     "demo": "https://youtu.be/-HeRKJP06Y4",
     "source": "https://www.figma.com/file/NQtjA1SHO8Yl76wa6zIHl3/sih-woolwebwebsite?type=design&node-id=1%3A3&mode=design&t=5RnF07r3sRmi7mkj-1"
+  },
+  {
+    "title": "WoolWeb – OR Scanner & Generator",
+    "imageSrc": "projects/woolweb.jpg",
+    "description": "This project aims to learn the programming languages by building an app that can generate and scan QR codes for real-time information and shows the usage of modern technologies.",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Node JS","API","Figma"
+    ],
+    "demo": "https://youtu.be/-HeRKJP06Y4",
+    "source": "https://www.figma.com/file/NQtjA1SHO8Yl76wa6zIHl3/sih-woolwebwebsite?type=design&node-id=1%3A3&mode=design&t=5RnF07r3sRmi7mkj-1"
+  },{
+    "title": "WoolWeb – OR Scanner & Generator",
+    "imageSrc": "projects/woolweb.jpg",
+    "description": "This project aims to learn the programming languages by building an app that can generate and scan QR codes for real-time information and shows the usage of modern technologies.",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Node JS","API","Figma"
+    ],
+    "demo": "https://youtu.be/-HeRKJP06Y4",
+    "source": "https://www.figma.com/file/NQtjA1SHO8Yl76wa6zIHl3/sih-woolwebwebsite?type=design&node-id=1%3A3&mode=design&t=5RnF07r3sRmi7mkj-1"
   }
  
 ]
