@@ -39,27 +39,26 @@
     "source": "https://www.figma.com/file/NQtjA1SHO8Yl76wa6zIHl3/sih-woolwebwebsite?type=design&node-id=1%3A3&mode=design&t=5RnF07r3sRmi7mkj-1"
   },
   {
-    "title": "WoolWeb – OR Scanner & Generator",
-    "imageSrc": "projects/woolweb.jpg",
-    "description": "This project aims to learn the programming languages by building an app that can generate and scan QR codes for real-time information and shows the usage of modern technologies.",
+    "title": "GYM web application",
+    "imageSrc": "projects/gym.png",
+    "description": "This project aims to learn programming languages by creating an gym app that provides exercise details and tracks progress, showcasing the use of modern technologies.",
     "skills": [
-      "Flutter",
-      "Dart",
-      "Node JS","API","Figma"
+      "HTML",
+      "Javascript",
+      "React","Figma"
     ],
-    "demo": "https://youtu.be/-HeRKJP06Y4",
-    "source": "https://www.figma.com/file/NQtjA1SHO8Yl76wa6zIHl3/sih-woolwebwebsite?type=design&node-id=1%3A3&mode=design&t=5RnF07r3sRmi7mkj-1"
+    "demo": "https://sitex-x-x.netlify.app/",
+    "source": "https://github.com/21037piyush/pdfitness"
   },{
-    "title": "WoolWeb – OR Scanner & Generator",
-    "imageSrc": "projects/woolweb.jpg",
-    "description": "This project aims to learn the programming languages by building an app that can generate and scan QR codes for real-time information and shows the usage of modern technologies.",
+    "title": "SD Industry webpage",
+    "imageSrc": "projects/sd.png",
+    "description": "This project aims to provide a fully responsive website that offers detailed product information and showcases the use of modern technologies.",
     "skills": [
-      "Flutter",
-      "Dart",
-      "Node JS","API","Figma"
+      "HTML",
+      "CSS",
+      "Bootstrap CSS","React JS"
     ],
-    "demo": "https://youtu.be/-HeRKJP06Y4",
-    "source": "https://www.figma.com/file/NQtjA1SHO8Yl76wa6zIHl3/sih-woolwebwebsite?type=design&node-id=1%3A3&mode=design&t=5RnF07r3sRmi7mkj-1"
-  }
+    "demo": "https://sdindustrygrnd.netlify.app/",
+    "source": "https://github.com/21037piyush/sdindustrygnd"  }
  
 ]
